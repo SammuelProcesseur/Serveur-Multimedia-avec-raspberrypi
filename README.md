@@ -1,2 +1,2 @@
 # Serveur-Multimedia
-[jellyfin docs] (https://jellyfin.org/docs/)
+Jellyfin docs: https://jellyfin.org/docs/
