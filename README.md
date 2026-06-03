@@ -19,7 +19,7 @@ curl https://repo.jellyfin.org/install-debuntu.sh | sudo bash
 
 4:
 
-sur un autre ordinateur, taper http://Adresse IP du Raspberry Pi:8096
+sur un autre ordinateur, taper http:// Adresse IP du Raspberry Pi:8096
 (vous pouvez voir l'adresse IP de votre Raspberry Pi avec la commande : ip -a)
 
 
