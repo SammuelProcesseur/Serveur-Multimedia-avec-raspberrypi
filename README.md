@@ -29,4 +29,5 @@ bien joué, vous avez votre Netflix local sur votre réseau
 
 
 (si problème regarder ce guide : https://raspberrytips.fr/jellyfin-raspberry-pi/)
+
 (Jellyfin docs: https://jellyfin.org/docs/)
