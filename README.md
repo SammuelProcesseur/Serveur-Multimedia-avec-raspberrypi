@@ -2,7 +2,7 @@
 
 1:
 
-Lancer votre Raspberry avec une distribution Debian sans interface graphique (exemple : Raspberry Pi OS Lite)
+Lancer votre Raspberrypi avec une distribution Debian sans interface graphique (exemple : Raspberry Pi OS Lite)
 
 
 2:
