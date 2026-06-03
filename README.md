@@ -8,21 +8,18 @@ Lancer votre Raspberry avec une distribution Debian sans interface graphique (ex
 2:
 
 mettez à jour avec ceci:
-
 sudo apt update && sudo apt upgrade -y
 
 
 3:
 
 tapez la commande pour utiliser le script prévu :
-
 curl https://repo.jellyfin.org/install-debuntu.sh | sudo bash
 
 
 4:
 
 sur un autre ordinateur, taper http://Adresse IP du Raspberry Pi:8096
-
 (vous pouvez voir l'adresse IP de votre Raspberry Pi avec la commande : ip -a)
 
 
