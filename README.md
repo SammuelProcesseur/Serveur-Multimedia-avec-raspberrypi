@@ -49,8 +49,9 @@ mettez votre film sur un disque dur
 
 4: 
 créez le répertoire pour pouvoir voir votre USB sur votre serveur à l'aide des commandes ci-dessous :
+
 sudo mkdir -p /mnt/usb
 
 
 6:
-retourner sur votre Jellyfin sur votre écran de visionnage
+retourner sur votre Jellyfin/sur votre écran de visionnage
