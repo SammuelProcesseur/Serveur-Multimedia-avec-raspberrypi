@@ -44,10 +44,8 @@ utiliser VLC et utiliser l'option convertir/diffuser pour télécharger votre fi
 
 
 3:
-mettez votre film sur un disque dur
-
-
-4: 
+mettez votre film sur un disque d
+su4: 
 créez le répertoire pour pouvoir voir votre USB sur votre serveur à l'aide des commandes ci-dessous :
 
 sudo mkdir -p /mnt/usb
@@ -55,3 +53,9 @@ sudo mkdir -p /mnt/usb
 
 6:
 retourner sur votre Jellyfin/sur votre écran de visionnage
+
+7:
+après vous être connecté, allez sur les trois barres en haut à gauche
+
+8:
+aller sur tableau de bord, puis médiathèque et faites ajouter une médiathèque
