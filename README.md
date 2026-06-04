@@ -52,6 +52,10 @@ créez le répertoire pour pouvoir voir votre USB sur votre serveur à l'aide de
 
 sudo mkdir -p /mnt/usb
 
+puis
+
+sudo mount /dev/sda1 /mnt/usb
+
 
 6:
 
