@@ -1,5 +1,5 @@
 # Serveur-Multimedia avec raspberry pi
-
+(Attention, il vous faut 8 Go de RAM pour éviter que le serveur se corrompe.)
 1:
 
 Lancer votre Raspberrypi avec une distribution Debian sans interface graphique (exemple : Raspberry Pi OS Lite)
