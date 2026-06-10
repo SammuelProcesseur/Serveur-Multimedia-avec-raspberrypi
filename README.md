@@ -32,7 +32,7 @@ bien joué, vous avez votre Netflix local sur votre réseau
 
 (Jellyfin docs: https://jellyfin.org/docs/)
 
-# télécharger un film
+# Télécharger un film
 
 
 1:
