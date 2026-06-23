@@ -42,8 +42,7 @@ prenez un DVD et, mettez-le dans un lecteur DVD
 
 2:
 
-utiliser VLC et utiliser l'option convertir/diffuser pour télécharger votre film sur votre ordinateur
-
+utiliser HandBrake et utiliser l'option de votre choix pour télécharger votre film au format mp4 pour télécharger votre film sur votre ordinateur
 
 3:
 
